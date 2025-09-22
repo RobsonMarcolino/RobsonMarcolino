@@ -27,8 +27,8 @@
 
 | Categoria        | Tecnologias                                                                                                 |
 | :--------------- | :---------------------------------------------------------------------------------------------------------- |
-| **Análise de Dados** | ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white)             |
-|                  | ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) |
+| **Análise de Dados** | ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white)             ||                  | ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) |
+
 |                  | ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white)   |
 |                  | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)     |
 | **Linguagens Dev** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)           |
@@ -42,7 +42,7 @@
 |                  | ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)        |
 |                  | ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)|
 | **Outros** | ![REST API](https://img.shields.io/badge/REST_API-00599C?style=for-the-badge&logo=rest-api&logoColor=white)|
-|                  
+            
 
 <br>
 
