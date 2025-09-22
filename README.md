@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/SEU-ID-DO-USUARIO?v=4" width="150px" alt="Minha Foto de Perfil">
 
-  <h1>Olá, sou Robson\! 👋</h1>
+ <h1>Olá, sou Robson\! 👋</h1>
   <h3>Analista de Dados na Ambev | Desenvolvedor Frontend | Futuro Engenheiro de Software</h3>
 
   <p>
