@@ -41,9 +41,8 @@
 | **Ferramentas** | ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)              |
 |                  | ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)        |
 |                  | ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)|
-| **IDEs** | ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)    |
 | **Outros** | ![REST API](https://img.shields.io/badge/REST_API-00599C?style=for-the-badge&logo=rest-api&logoColor=white)|
-|                  | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)          |
+|                  
 
 <br>
 
