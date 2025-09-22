@@ -72,11 +72,6 @@ Atualmente, trabalho como **Analista Regional de Preços na Ambev**, com foco em
 
 ---
 
-## 💬 Random Dev Quote:
-
-> "A arte da programação é o ofício de organizar complexidade."
-> — *Edsger W. Dijkstra*
-
 <div align="center">
   <br>
   Feito com ❤️ por Robson
