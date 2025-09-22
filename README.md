@@ -19,7 +19,7 @@
 -   🌱 Aprofundo meus conhecimentos em **JavaScript, React/Vue (ou outra de sua preferência)** e exploro ativamente os princípios de **arquitetura de software e design de sistemas**.
 -   👯 Aberto a colaborar em projetos de código aberto e aprender com a comunidade.
 -   💬 Pergunte-me sobre **análise de dados, estratégias de precificação, desenvolvimento frontend ou caminhos para engenharia de software\!**
--   ⚡ Curiosidade: Adoro jogos de estratégia e cozinhar nos fins de semana.
+-   ⚡ Curiosidade: Pratico bastante exercicios fisico e amo Animes
 
 ---
 
@@ -52,7 +52,8 @@
 ## 🔗 Conecte-se Comigo
 
 <div align="center">
-  <a href="https://linkedin.com/in/SEU-LINK-DO-LINKEDIN" target="_blank">
+  <a href="
+https://www.linkedin.com/in/robson-marcolino" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:SEU-EMAIL@dominio.com" target="_blank">
