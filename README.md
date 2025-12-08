@@ -29,18 +29,10 @@ Meus princípios de desenvolvimento:
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 
-
-
-
-
 <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-
-
-
-
 
 <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white" />
@@ -51,16 +43,12 @@ Meus princípios de desenvolvimento:
 📊 Estatísticas do GitHub
 
 <div align="center">
-<a href="https://www.google.com/search?q=https://github.com/RobsonMarcolino">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RobsonMarcolino&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobsonMarcolino&layout=compact&theme=midnight-purple&hide_border=true"/>
+<a href="https://www.google.com/url?sa=E&source=gmail&q=https://github.com/RobsonMarcolino">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=RobsonMarcolino&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobsonMarcolino&layout=compact&theme=midnight-purple&hide_border=true"/>
 </a>
-
-
-
-
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RobsonMarcolino&theme=midnight-purple&hide_border=true" />
+<br />
+<img src="https://www.google.com/search?q=https://streak-stats.demolab.com%3Fuser%3DRobsonMarcolino%26theme%3Dmidnight-purple%26hide_border%3Dtrue" />
 </div>
 
 🌐 Conecte-se comigo
