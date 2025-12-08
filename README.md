@@ -43,12 +43,12 @@ Meus princípios de desenvolvimento:
 📊 Estatísticas do GitHub
 
 <div align="center">
-<a href="https://www.google.com/url?sa=E&source=gmail&q=https://github.com/RobsonMarcolino">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=RobsonMarcolino&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobsonMarcolino&layout=compact&theme=midnight-purple&hide_border=true"/>
+<a href="https://www.google.com/search?q=https://github.com/RobsonMarcolino">
+<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DRobsonMarcolino%26show_icons%3Dtrue%26theme%3Dtokyonight%26include_all_commits%3Dtrue%26count_private%3Dtrue"/>
+<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DRobsonMarcolino%26layout%3Dcompact%26theme%3Dtokyonight"/>
 </a>
 <br />
-<img src="https://www.google.com/search?q=https://streak-stats.demolab.com%3Fuser%3DRobsonMarcolino%26theme%3Dmidnight-purple%26hide_border%3Dtrue" />
+<img height="180em" src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DRobsonMarcolino%26theme%3Dtokyonight" />
 </div>
 
 🌐 Conecte-se comigo
