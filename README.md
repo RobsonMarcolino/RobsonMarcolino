@@ -1,22 +1,5 @@
-<div align="center">
+<img width="1801" height="904" alt="image" src="https://github.com/user-attachments/assets/67d711b5-6bad-442c-b039-a6ac4688164b" />
 
-  <h1>Olá, sou Robson\! 👋</h1>
-  <h3>Analista de Dados na Ambev | Desenvolvedor Frontend | Futuro Engenheiro de Software</h3>
-</div>
-
----
-
-## 🚀 Sobre Mim
-
-Com experiência sólida na **Análise Regional de Preços na Ambev**, transformo dados complexos em estratégias acionáveis. Minha paixão se estende ao desenvolvimento frontend, onde crio interfaces dinâmicas, e minha visão é me tornar um Engenheiro de Software completo, focado em arquitetura, performance e soluções inovadoras.
-
-Atualmente, trabalho como **Analista Regional de Preços na Ambev**, com foco em **análise de dados, precificação estratégica e inteligência de mercado**.
-
--   🔭 Estou construindo um projeto de **Gestão de Energia Solar**, aplicando meus conhecimentos em desenvolvimento frontend.
--   🌱 Aprofundo meus conhecimentos em **JavaScript, React (ou outro framework de sua preferência)** e exploro ativamente os princípios de **arquitetura de software e design de sistemas**.
--   👯 Aberto a colaborar em projetos de código aberto e aprender com a comunidade.
--   💬 Pergunte-me sobre **análise de dados, estratégias de precificação, desenvolvimento frontend ou caminhos para engenharia de software\!**
--   ⚡ Curiosidade: Pratico exercicio fisicio e amo Animes!
 ---
 
 ## 🌐 Sociais:
