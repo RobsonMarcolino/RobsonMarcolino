@@ -40,17 +40,6 @@ Meus princípios de desenvolvimento:
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </div>
 
-📊 Estatísticas do GitHub
-
-<div align="center">
-<a href="https://www.google.com/search?q=https://github.com/RobsonMarcolino">
-<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DRobsonMarcolino%26show_icons%3Dtrue%26theme%3Dtokyonight%26include_all_commits%3Dtrue%26count_private%3Dtrue"/>
-<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DRobsonMarcolino%26layout%3Dcompact%26theme%3Dtokyonight"/>
-</a>
-<br />
-<img height="180em" src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DRobsonMarcolino%26theme%3Dtokyonight" />
-</div>
-
 🌐 Conecte-se comigo
 
 <div align="center">
