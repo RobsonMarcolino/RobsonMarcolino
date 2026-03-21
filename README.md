@@ -2,7 +2,7 @@
 <h3 align="center">Engenheiro de Software | Front-end & Mobile | Dados & Automação</h3>
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/67d711b5-6bad-442c-b039-a6ac4688164b" width="100%" alt="Banner Robson Marcolino" />
+<img width="517" height="612" alt="image" src="https://github.com/user-attachments/assets/260ba3e1-36c3-4909-9322-c4d3ccf4401d" />
 </div>
 
 🚀 Sobre mim
