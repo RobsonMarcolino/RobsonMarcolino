@@ -1,5 +1,5 @@
 <h1 align="center">👨🏽‍💻 Robson Marcolino</h1>
-<h3 align="center">Engenheiro de Software | Front-end & Mobile | Dados & Automação</h3>
+<h3 align="center">Engenheiro de Software | full stack  | Dados & Automação</h3>
 
 <div align="center">
 <img width="517" height="612" alt="image" src="https://github.com/user-attachments/assets/260ba3e1-36c3-4909-9322-c4d3ccf4401d" />
@@ -7,17 +7,8 @@
 
 🚀 Sobre mim
 
-Sou Engenheiro de Software, apaixonado por tecnologia, inovação e criação de soluções que realmente impactam o dia a dia das pessoas. Atuo no desenvolvimento de aplicações Web, Mobile, APIs e soluções integradas com dados.
+Sou Engenheiro de Software, apaixonado por tecnologia, inovação e criação de soluções que realmente impactam o dia a dia das pessoas. Atuo no desenvolvimento de aplicações Web, Mobile, APIs e soluções integradas com IA.
 
-Meus princípios de desenvolvimento:
-
-✔ Código limpo (Clean Code)
-
-✔ Arquitetura escalável
-
-✔ Performance otimizada
-
-✔ Foco total na Experiência do Usuário (UX)
 
 💻 Tech Stack
 
