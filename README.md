@@ -1,11 +1,17 @@
 <h1 align="center">👨🏽‍💻 Robson Marcolino</h1>
 <h3 align="center">Engenheiro de Software na Ambev Tech | Engenharia & Inteligência Artificial</h3>
 
+<p align="center">
+<a href="#sobre-mim">Sobre mim</a> &nbsp;·&nbsp;
+<a href="#como-atuo">Como atuo</a> &nbsp;·&nbsp;
+<a href="#stack">Stack</a>
+</p>
+
 <div align="center">
 <img width="517" height="612" alt="image" src="https://github.com/user-attachments/assets/260ba3e1-36c3-4909-9322-c4d3ccf4401d" />
 </div>
 
-🚀 Sobre mim
+## Sobre mim
 
 <table>
 <tr>
@@ -22,17 +28,29 @@
 </tr>
 </table>
 
-💻 Tech Stack
+## Como atuo
 
-<div align="center">
+```mermaid
+flowchart LR
+    ENG["Engenharia de software"] --> SOL["Soluções digitais confiáveis"]
+    IA["Inteligência artificial"] --> SOL
+    DA["Dados e automação"] --> SOL
+```
 
-<p><strong>ENGENHARIA & IA</strong><br/>
+## Stack
+
+<p align="center">
 <img alt="Python" src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 <img alt="CrewAI" src="https://img.shields.io/badge/CrewAI-Agent%20Orchestration-1F2937?style=for-the-badge" />
 <img alt="IA Generativa" src="https://img.shields.io/badge/GenAI-IA%20Generativa-1F2937?style=for-the-badge" />
 </p>
 
-<p><strong>DESENVOLVIMENTO</strong><br/>
+<details>
+<summary>Explorar tecnologias de desenvolvimento, dados e ferramentas</summary>
+
+#### Desenvolvimento
+
+<p align="center">
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -42,7 +60,9 @@
 <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 </p>
 
-<p><strong>DADOS & FERRAMENTAS</strong><br/>
+#### Dados e ferramentas
+
+<p align="center">
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img alt="Power BI" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white" />
@@ -51,21 +71,4 @@
 <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
-</div>
-
-🌐 Conecte-se comigo
-
-<div align="center">
-<a href="https://linkedin.com/in/SEU-LINK-DO-LINKEDIN" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://instagram.com/SEU-LINK-INSTAGRAM" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="https://youtube.com/SEU-LINK-YOUTUBE" target="_blank">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
-<a href="mailto:SEU-EMAIL@dominio.com" target="_blank">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-</div>
+</details>
